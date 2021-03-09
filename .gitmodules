@@ -1,0 +1,3 @@
+[submodule "UnrealCLR"]
+	path = UnrealCLR
+	url = https://github.com/nxrighthere/UnrealCLR.git
