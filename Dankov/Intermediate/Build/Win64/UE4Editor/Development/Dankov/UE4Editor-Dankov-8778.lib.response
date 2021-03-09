@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Dankov-8778.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\DankovEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\Dankov.cpp.obj"
+"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\DankovGameModeBase.cpp.obj"
+"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\Dankov.init.gen.cpp.obj"
+"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\DankovGameModeBase.gen.cpp.obj"
+"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\Default.rc2.res"
+/OUT:"E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\UE4Editor-Dankov-8778.lib"
+/INCLUDE:IMPLEMENT_MODULE_Dankov

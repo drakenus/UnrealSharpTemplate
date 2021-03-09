@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dankov",
+			"Path": "E:\\Programming\\Unreal\\Dankov\\Dankov\\Source\\Dankov.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DankovEditor",
+			"Path": "E:\\Programming\\Unreal\\Dankov\\Dankov\\Source\\DankovEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
