@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>../../Dankov/Managed/Build</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UnrealEngine.Framework">
+      <HintPath>..\..\UnrealCLR\Source\Managed\Framework\bin\Release\UnrealEngine.Framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
