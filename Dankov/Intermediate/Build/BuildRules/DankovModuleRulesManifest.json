@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\Programming\\Unreal\\Dankov\\Dankov\\Source\\Dankov\\Dankov.Build.cs",
-		"E:\\Programming\\Unreal\\Dankov\\Dankov\\Source\\Dankov.Target.cs",
-		"E:\\Programming\\Unreal\\Dankov\\Dankov\\Source\\DankovEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.1"
-}

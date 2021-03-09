@@ -1,2 +1,0 @@
-E:\Programming\Unreal\Dankov\Dankov\Intermediate\Build\Win64\UE4Editor\Development\Dankov\Definitions.Dankov.h
-E:\Programming\Unreal\Dankov\Dankov\Source\Dankov\Dankov.h
