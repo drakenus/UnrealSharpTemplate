@@ -10,7 +10,9 @@
 
 ## How to debug C\# 
 
-TBD
+- Attach Visual studio to UE4Editor.exe (Managed .NET core, .NET5+)
+- Place breakpoint in C\# code
+- Start the scene in Unreal engine
 
 ## Useful links
 
